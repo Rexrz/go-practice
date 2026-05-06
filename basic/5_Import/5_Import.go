@@ -10,7 +10,7 @@ import (
 
 	// import _ "包"
 	// 给包起一个匿名，无法使用导入包的方法但是会执行当前包的init方法
-	_ "go-practice/basic/init1"
+	_ "go-practice/basic/4_Init/init1"
 	// 给包起一个别名，可以直接使用别名调用方法
 	//test "go-practice/basic/init2"
 )
